@@ -1,0 +1,18 @@
+[
+  {
+    "pluginName": "斗图",
+    "name": "doutu-rubickPlugin",
+    "status": null,
+    "author": "vst",
+    "logo": "https://static.91jkys.com/activity/img/2adb63c2e5d54dc1b26001958fcdb044.jpg",
+    "gitUrl": null,
+    "title": null,
+    "description": "斗图表情搜索",
+    "version": "0.2.20",
+    "downloadUrl": "https://static.91jkys.com/upload/202108/05/c133a3c9cc50481db1adbb9ec7fe4e66.gz",
+    "detail": "![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9f34112f310a4198a88509440d646d57~tplv-k3u1fbpfcp-watermark.image)\n# 功能介绍\n方便查找斗图表情，回车搜索后，**左键点击** 看中的就复制到剪切板了，**双击左键** 插入当前光标处，**右键** 点击可在浏览器中打开图片（方便无法自动复制粘贴情况下的使用）",
+    "createdAt": "2021-06-21T02:39:06.000Z",
+    "updatedAt": "2021-06-21T02:39:06.000Z",
+    "deletedAt": null
+  }
+]
